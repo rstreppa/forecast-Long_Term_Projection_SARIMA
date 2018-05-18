@@ -7,5 +7,5 @@ Long term projection of short term SARIMA estimate of raw liquidity need
 4. WhitePaper_Improvement_Links.txt links to further model improvement
 
 TODO:
-* Improve the model by ccomputing the distribution of the Max 
+* Improve the model by computing the distribution of the Max 
 * Extend to numerical + theoretical analysis of the periodic jumps of random magnitude
