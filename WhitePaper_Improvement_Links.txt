@@ -1,0 +1,2 @@
+Max_Independent_Non_Identically_Distributed_Gaussians: https://www.gwern.net/docs/conscientiousness/2008-nadarajah.pdf
+Max_Independent_Identically_Distributed_Gaussians: https://math.stackexchange.com/questions/89030/expectation-of-the-maximum-of-gaussian-random-variables
